@@ -149,7 +149,7 @@ h1,h2,h3,h4,h5,h6{
     transform: scale(1.2);
     letter-spacing: 3px;
     background-color: #D74932;
-    color: white;
+    color: yellow;
 }
 .fa:hover{
     transition: 0.3s;
